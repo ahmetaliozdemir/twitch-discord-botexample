@@ -1,4 +1,4 @@
-# Welcome This is an example of running a binary bot.
+# Welcome This is an example of running double bot.
 ## Setup
 
 
